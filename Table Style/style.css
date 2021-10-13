@@ -1,0 +1,27 @@
+table{
+	width:600px;
+	text-align:center;
+	margin:100px auto;
+	background-color:#f8c9c9;;
+	
+}
+.table-left{
+	text-align:left;
+}
+table caption{
+	font-size:30px;
+	color:red;
+	font-weight:bold;
+	
+}
+table, th, td, tr{
+	border-collapse:6px;
+	border:3px solid;
+}
+.blue{
+	background-color:blue;
+}
+.red{
+	background-color:red;
+	color:yellow;
+}
